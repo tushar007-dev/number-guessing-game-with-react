@@ -1,0 +1,39 @@
+.section{
+  text-align: center;
+}
+
+.input-box{
+  width: 450px;
+  padding: 15px;
+  border-radius: 50px;
+
+}
+
+.start-game-btn{
+  width: 250px;
+  padding: 8px;
+  background-color: blueviolet;
+  border: 0;
+  border-radius: 50px;
+  margin-top: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+/* .error{
+  color: red;
+  display: none;
+} */
+
+body{
+  background-color: rgb(139, 104, 104);
+}
+
+.gameOver{
+  display: flex;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  color: white;
+}
